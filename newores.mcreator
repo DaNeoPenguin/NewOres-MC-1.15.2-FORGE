@@ -112,6 +112,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ingotrecipe"
+    },
+    {
+      "name": "ModinfoCommandExecuted",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "modinfo_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Modinfo",
+      "type": "command",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "modinfo"
     }
   ],
   "variable_elements": [],
