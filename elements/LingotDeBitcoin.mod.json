@@ -24,7 +24,7 @@
     "enableMeleeDamage": true,
     "damageVsEntity": 1.0,
     "specialInfo": [
-      "It's a bitcoin ingot"
+      "It's a Normal Bitcoin Ingot"
     ],
     "hasGlow": true,
     "guiBoundTo": "<NONE>",

@@ -83,7 +83,7 @@ public class LingotDeBitcoinItem extends NeworesModElements.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("It's a bitcoin ingot"));
+			list.add(new StringTextComponent("It's a Normal Bitcoin Ingot"));
 		}
 	}
 }
