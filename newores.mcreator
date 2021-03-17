@@ -147,6 +147,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mod_about_full"
+    },
+    {
+      "name": "EasterEgg",
+      "type": "keybind",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "easter_egg"
+    },
+    {
+      "name": "Btcget",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "btcget",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -158,7 +184,8 @@
       "item.newores.armure_de_bitcoin_helmet": "Bitcoin Helmet",
       "item.newores.armure_de_bitcoin_boots": "Bitcoin Boots",
       "item.newores.armure_de_bitcoin_chestplate": "Bitcoin Chestplate",
-      "block.newores.minerai_de_bitcoin": "Bitcoin Ore"
+      "block.newores.minerai_de_bitcoin": "Bitcoin Ore",
+      "key.mcreator.easter_egg": "Easter Egg?????? "
     }
   },
   "workspaceSettings": {

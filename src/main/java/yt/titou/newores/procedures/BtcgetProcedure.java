@@ -12,15 +12,15 @@ import net.minecraft.entity.Entity;
 import java.util.Map;
 
 @NeworesModElements.ModElement.Tag
-public class DstryProcedure extends NeworesModElements.ModElement {
-	public DstryProcedure(NeworesModElements instance) {
-		super(instance, 3);
+public class BtcgetProcedure extends NeworesModElements.ModElement {
+	public BtcgetProcedure(NeworesModElements instance) {
+		super(instance, 14);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {
 		if (dependencies.get("entity") == null) {
 			if (!dependencies.containsKey("entity"))
-				System.err.println("Failed to load dependency entity for procedure Dstry!");
+				System.err.println("Failed to load dependency entity for procedure Btcget!");
 			return;
 		}
 		Entity entity = (Entity) dependencies.get("entity");
