@@ -1,0 +1,39 @@
+{
+  "group": "newores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "2": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "3": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "4": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "5": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "6": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "7": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "8": {
+      "item": "newores:lingot_de_bitcoin"
+    }
+  },
+  "result": {
+    "item": "newores:armure_de_bitcoin_chestplate",
+    "count": 1
+  }
+}

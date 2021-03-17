@@ -1,0 +1,29 @@
+{
+  "group": "newores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "1": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "2": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "3": {
+      "item": "newores:lingot_de_bitcoin"
+    },
+    "5": {
+      "item": "newores:lingot_de_bitcoin"
+    }
+  },
+  "result": {
+    "item": "newores:armure_de_bitcoin_helmet",
+    "count": 1
+  }
+}

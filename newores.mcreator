@@ -1,0 +1,148 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MineraiDeBitcoinOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerai_de_bitcoin_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MineraiDeBitcoin",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerai_de_bitcoin"
+    },
+    {
+      "name": "LingotDeBitcoin",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lingot_de_bitcoin"
+    },
+    {
+      "name": "Dstry",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dstry",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ArmureDeBitcoin",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armure_de_bitcoin",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Armrrcp1",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armrrcp_1"
+    },
+    {
+      "name": "Armrrcp",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armrrcp"
+    },
+    {
+      "name": "Armrrcp3",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armrrcp_3"
+    },
+    {
+      "name": "Armrrcp4",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armrrcp_4"
+    },
+    {
+      "name": "Ingotrecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingotrecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.newores.lingot_de_bitcoin": "Bitcoin Ingot",
+      "item.newores.armure_de_bitcoin_leggings": "Bitcoin Leggings",
+      "item.newores.armure_de_bitcoin_helmet": "Bitcoin Helmet",
+      "item.newores.armure_de_bitcoin_boots": "Bitcoin Boots",
+      "item.newores.armure_de_bitcoin_chestplate": "Bitcoin Chestplate",
+      "block.newores.minerai_de_bitcoin": "Bitcoin Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "newores",
+    "modName": "NewOres",
+    "version": "beta 1",
+    "description": "this is my minecraft mod",
+    "author": "titoudelaplage",
+    "websiteURL": "titoumods.blogspot.com",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "I love apples",
+    "modElementsPackage": "yt.titou.newores",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

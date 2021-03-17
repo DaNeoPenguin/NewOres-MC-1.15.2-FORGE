@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="newores"
+version="beta 1"
+displayName="NewOres"
+credits="I love apples"
+displayURL="https://mcreator.net"
+authors="titoudelaplage"
+description='''
+this is my minecraft mod
+'''
+
+[[dependencies.newores]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

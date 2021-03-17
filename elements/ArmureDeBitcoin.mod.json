@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "btc",
+    "enableBody": true,
+    "textureBody": "plastrondebitcoin",
+    "enableLeggings": true,
+    "textureLeggings": "jambieresdebitcoin",
+    "enableBoots": true,
+    "textureBoots": "bottesdebitcoin",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "gold_",
+    "helmetName": "Bitcoin Helmet",
+    "bodyName": "Bitcoin Chestplate",
+    "leggingsName": "Bitcoin Leggings",
+    "bootsName": "Bitcoin Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "gold_layer_1.png",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "gold_layer_1.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "gold_layer_2.png",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "gold_layer_2.png",
+    "maxDamage": 25,
+    "damageValueHelmet": 6,
+    "damageValueBody": 6,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 6,
+    "enchantability": 9,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:LingotDeBitcoin"
+      }
+    ]
+  }
+}

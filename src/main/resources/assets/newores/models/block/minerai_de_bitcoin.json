@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "newores:blocks/bitcoinore",
+    "up": "newores:blocks/bitcoinore",
+    "north": "newores:blocks/bitcoinore",
+    "east": "newores:blocks/bitcoinore",
+    "south": "newores:blocks/bitcoinore",
+    "west": "newores:blocks/bitcoinore",
+    "particle": "newores:blocks/bitcoinore"
+  }
+}
