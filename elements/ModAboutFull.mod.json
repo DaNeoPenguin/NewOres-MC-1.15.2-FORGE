@@ -1,0 +1,117 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Mod Informations",
+          "color": {
+            "value": -2815478,
+            "falpha": 0.0
+          },
+          "name": "Mod Informations",
+          "x": 172,
+          "y": 45
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Version : 1.0 BETA",
+          "color": {
+            "value": -13758002,
+            "falpha": 0.0
+          },
+          "name": "Version : 1.0 BETA",
+          "x": 167,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Downloaded From : GitHub",
+          "color": {
+            "value": -15352765,
+            "falpha": 0.0
+          },
+          "name": "Downloaded From : GitHub",
+          "x": 156,
+          "y": 84
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Minecraft Version : 1.15.2",
+          "color": {
+            "value": -15622686,
+            "falpha": 0.0
+          },
+          "name": "Minecraft Version : 1.15.2",
+          "x": 153,
+          "y": 103
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Creator : titoudelaplage",
+          "color": {
+            "value": -1636643,
+            "falpha": 0.0
+          },
+          "name": "Creator : titoudelaplage",
+          "x": 157,
+          "y": 118
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Nothing",
+          "width": 110,
+          "height": 20,
+          "name": "Nothing",
+          "x": 161,
+          "y": 170
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "THANKS TO USING NEWORES !!!!",
+          "color": {
+            "value": -10864935,
+            "falpha": 0.0
+          },
+          "name": "THANKS TO USING NEWORES !!!!",
+          "x": 148,
+          "y": 135
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Press \"Escape\" To Exit",
+          "color": {
+            "value": -11959569,
+            "falpha": 0.0
+          },
+          "name": "Press \"Escape\" To Exit",
+          "x": 161,
+          "y": 154
+        }
+      }
+    ]
+  }
+}
