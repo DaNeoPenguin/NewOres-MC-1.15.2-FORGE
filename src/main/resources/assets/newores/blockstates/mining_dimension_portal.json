@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "newores:block/mining_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "newores:block/mining_dimension_portal_ns"
+    }
+  }
+}

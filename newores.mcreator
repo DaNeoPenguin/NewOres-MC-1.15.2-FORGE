@@ -173,6 +173,15 @@
           }
         ]
       }
+    },
+    {
+      "name": "MiningDimension",
+      "type": "dimension",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mining_dimension"
     }
   ],
   "variable_elements": [],
@@ -183,6 +192,7 @@
       "item.newores.armure_de_bitcoin_leggings": "Bitcoin Leggings",
       "item.newores.armure_de_bitcoin_helmet": "Bitcoin Helmet",
       "item.newores.armure_de_bitcoin_boots": "Bitcoin Boots",
+      "item.newores.mining_dimension": "Go To Mine",
       "item.newores.armure_de_bitcoin_chestplate": "Bitcoin Chestplate",
       "block.newores.minerai_de_bitcoin": "Bitcoin Ore",
       "key.mcreator.easter_egg": "Easter Egg?????? "
