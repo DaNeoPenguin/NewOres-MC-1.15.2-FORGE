@@ -1,18 +1,23 @@
 {
-  "item.newores.armure_de_bitcoin_leggings": "Bitcoin Leggings",
-  "block.newores.orthana_planks": "Orthana Planks",
+  "item.newores.orthana_sword": "Orthana Sword",
   "block.newores.orthana_fence_gate": "Orthana Fence Gate",
+  "block.newores.orthana_planks": "Orthana Planks",
+  "item.newores.armure_de_bitcoin_leggings": "Bitcoin Leggings",
   "item.newores.armure_de_bitcoin_helmet": "Bitcoin Helmet",
   "block.newores.orthana_leaves": "Orthana Leaves",
   "block.newores.orthana_wood": "Orthana Wood",
   "key.mcreator.easter_egg": "Easter Egg?????? ",
   "block.newores.orthana_stairs": "Orthana Stairs",
   "block.newores.orthana_log": "Orthana Log",
+  "item.newores.orthana_axe": "Orthana Axe",
   "block.newores.orthana_fence": "Orthana Fence",
   "item.newores.lingot_de_bitcoin": "Bitcoin Ingot",
   "item.newores.armure_de_bitcoin_boots": "Bitcoin Boots",
   "item.newores.mining_dimension": "Go To Mine",
   "item.newores.armure_de_bitcoin_chestplate": "Bitcoin Chestplate",
   "block.newores.minerai_de_bitcoin": "Bitcoin Ore",
-  "block.newores.orthana_slab": "Orthana Slab"
+  "block.newores.orthana_slab": "Orthana Slab",
+  "item.newores.orthana_pickaxe": "Orthana Pickaxe",
+  "item.newores.orthana_shovel": "Orthana Shovel",
+  "item.newores.orthana_hoe": "Orthana Hoe"
 }

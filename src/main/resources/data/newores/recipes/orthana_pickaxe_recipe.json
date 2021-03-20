@@ -1,0 +1,30 @@
+{
+  "group": "newores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "newores:orthana_planks"
+    },
+    "1": {
+      "item": "newores:orthana_planks"
+    },
+    "2": {
+      "item": "newores:orthana_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "newores:orthana_pickaxe",
+    "count": 1
+  }
+}
