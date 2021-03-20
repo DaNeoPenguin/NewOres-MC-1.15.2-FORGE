@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newores:block/orthana_slab"
+    },
+    "type=top": {
+      "model": "newores:block/orthana_slab_top"
+    },
+    "type=double": {
+      "model": "newores:block/orthana_slab_full"
+    }
+  }
+}

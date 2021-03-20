@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "newores:blocks/orthana_planks",
+    "top": "newores:blocks/orthana_planks",
+    "side": "newores:blocks/orthana_planks"
+  }
+}

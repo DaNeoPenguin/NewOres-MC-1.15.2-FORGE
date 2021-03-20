@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "newores:blocks/orthana_log_top",
+    "up": "newores:blocks/orthana_log_top",
+    "north": "newores:blocks/orthana_log_side",
+    "east": "newores:blocks/orthana_log_side",
+    "south": "newores:blocks/orthana_log_side",
+    "west": "newores:blocks/orthana_log_side",
+    "particle": "newores:blocks/orthana_log_top"
+  }
+}

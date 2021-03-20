@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:OrthanaWood"
+      },
+      {
+        "value": "CUSTOM:OrthanaLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "orthana_log",
+    "namespace": "forge"
+  }
+}

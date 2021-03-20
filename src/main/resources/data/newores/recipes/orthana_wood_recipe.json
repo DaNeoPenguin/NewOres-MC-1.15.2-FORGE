@@ -1,0 +1,26 @@
+{
+  "group": "newores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "newores:orthana_log"
+    },
+    "1": {
+      "item": "newores:orthana_log"
+    },
+    "2": {
+      "item": "newores:orthana_log"
+    },
+    "3": {
+      "item": "newores:orthana_log"
+    }
+  },
+  "result": {
+    "item": "newores:orthana_wood",
+    "count": 3
+  }
+}

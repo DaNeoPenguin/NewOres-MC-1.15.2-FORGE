@@ -1,0 +1,32 @@
+{
+  "group": "newores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "newores:orthana_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "newores:orthana_planks"
+    },
+    "3": {
+      "item": "newores:orthana_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "newores:orthana_planks"
+    }
+  },
+  "result": {
+    "item": "newores:orthana_fence",
+    "count": 3
+  }
+}

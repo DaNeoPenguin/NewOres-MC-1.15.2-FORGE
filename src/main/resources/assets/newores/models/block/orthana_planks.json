@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "newores:blocks/orthana_planks",
+    "particle": "newores:blocks/orthana_planks"
+  }
+}

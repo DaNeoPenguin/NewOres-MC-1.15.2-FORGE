@@ -1,0 +1,22 @@
+{
+  "group": "newores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "newores:orthana_planks"
+    },
+    "1": {
+      "item": "newores:orthana_planks"
+    },
+    "2": {
+      "item": "newores:orthana_planks"
+    }
+  },
+  "result": {
+    "item": "newores:orthana_slab",
+    "count": 6
+  }
+}

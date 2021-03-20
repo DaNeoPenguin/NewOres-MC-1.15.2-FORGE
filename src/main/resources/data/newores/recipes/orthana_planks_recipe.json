@@ -1,0 +1,13 @@
+{
+  "group": "newores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:orthana_log"
+    }
+  ],
+  "result": {
+    "item": "newores:orthana_planks",
+    "count": 4
+  }
+}
